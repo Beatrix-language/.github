@@ -3,8 +3,4 @@
 This repository is used to store organization-wide configuration files, profile branding, and community health files for the **Beatrix Programming Language**.
 
 ## 📁 Structure
-- `/profile`: Contains the `README.md` that appears on the [@Beatrix-language](https://github.com/Beatrix-language) organization profile.
-- `.github`: (Future) Organization-wide issue templates, contribution guidelines, and automation workflows.
-
-## 📌 Note
-If you are looking for the actual **Beatrix compiler source code**, please head over to the [Beatrix Core](https://github.com/Beatrix-language/beatrix) repository.
+- `/profile`: Contains the `README.md` that appears on the [@Beatrix-labs](https://github.com/Beatrix-labs) organization profile.
