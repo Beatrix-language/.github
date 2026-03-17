@@ -13,7 +13,7 @@ Originally conceived as a programming language, **Beatrix** has evolved into a c
 Our goal is to simplify cybersecurity. We believe that security tools shouldn't be "heavy" or "scary." Beatrix tools are built to be:
 
 - **Ethical-First**: Built-in sensors to prevent misuse for malicious activities.
-- **Lightweight**: Optimized for performance (perfect for Termux or low-end systems).
+- **Lightweight**: Optimized for performance (perfect for low-end systems).
 - **Human-Centric**: Protecting real people from real threats like Social Engineering.
 
 ---
@@ -32,7 +32,7 @@ Our goal is to simplify cybersecurity. We believe that security tools shouldn't 
 
 ## 👨‍💻 About the Founder
 
-Beatrix was founded by [soft-meo](https://github.com/soft-meo), a young Security Developer passionate about Python, AI, and ethical hacking.
+Beatrix was founded by [soft-meo](https://github.com/soft-meo), a young Security Developer passionate about Software, tools, and ethical hacking.
 
 ---
 
