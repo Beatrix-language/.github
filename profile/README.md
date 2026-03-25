@@ -39,7 +39,7 @@ Founded by **[soft-meo](https://github.com/soft-meo)**, Beatrix-labs is the resu
 ## 📬 Join the Defense
 
 - **Organization Status**: 🔵 **Transitioning to Defense-Only (Blue Team)**
-- **Current Project**: Developing the **Beatrix-Shield** (Lightweight WAF).
+- **Current Project**: Developing the **Argus** (IDS/IPS)
 - **Motto**: Secure by Design, Defended by Intelligence.
 
 ---
