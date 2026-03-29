@@ -1,3 +1,5 @@
+> Beatrix-labs is currently on hiatus. Focus is shifting towards new ventures and personal growth. Thank you for the support.
+
 # 🛡️ Beatrix Security Ecosystem (Defense-First)
 
 **"Architecting Resilience, Guarding the Digital Frontier"**
